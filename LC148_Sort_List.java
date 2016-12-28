@@ -7,49 +7,52 @@
  * }
  */
 public class Solution {
-    /**
-     * 使用归并排序, 基于LC21
-     * 双指针找到中点, 分割, 归并排序
-     */
-    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        ListNode head=new ListNode(0);
-        ListNode curr=head;
-        
-        while(l1!=null && l2!=null){
-            if(l1.val>l2.val){
-                curr.next=l2;
-                l2=l2.next;
-            }
-            else{
-                curr.next=l1;
-                l1=l1.next;
-            }
-            curr=curr.next;
-        }
-        if(l1!=null){
-            curr.next=l1;
-        }
-        if(l2!=null){
-            curr.next=l2;
-        }
-        
-        return head.next;
-    }
+    /** Yunqiu Xu, using merge sort*/
     
+    private ListNode findMiddle(ListNode head) {
+        ListNode slow = head, fast = head.next;
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+        }
+        return slow;
+    }    
+
+    //same to LC021
+    private ListNode merge(ListNode head1, ListNode head2) {
+        ListNode dummy = new ListNode(0);
+        ListNode tail = dummy;
+        while (head1 != null && head2 != null) {
+            if (head1.val < head2.val) {
+                tail.next = head1;
+                head1 = head1.next;
+            } else {
+                tail.next = head2;
+                head2 = head2.next;
+            }
+            tail = tail.next;
+        }
+        if (head1 != null) {
+            tail.next = head1;
+        } else {
+            tail.next = head2;
+        }
+
+        return dummy.next;
+    }
+
     public ListNode sortList(ListNode head) {
-        if(head==null||head.next==null){
+        if (head == null || head.next == null) {
             return head;
         }
-        ListNode fast=head;
-        ListNode slow=head;
-        ListNode prevSlow=null;
-        while(fast!=null && fast.next!=null){
-            fast=fast.next.next;
-            prevSlow=slow;
-            slow=slow.next;
-        }
-        
-        prevSlow.next=null;
-        return mergeTwoLists(sortList(head),sortList(slow));
+
+        ListNode mid = findMiddle(head);
+
+        ListNode right = sortList(mid.next);
+        mid.next = null;
+        ListNode left = sortList(head);
+
+        return merge(left, right);
     }
+
 }

@@ -10,21 +10,24 @@
  * }
  */
 public class Solution {
+    /** Yunqiu Xu*/
     /**
      * 思路: 双指针, 若快慢指针可以相遇, 则证明有环
     */
-    public boolean hasCycle(ListNode head) {
-        ListNode fast = head;
-        ListNode slow = head;
-        
-        while(fast!=null && fast.next!=null){
-            fast=fast.next.next;
-            slow=slow.next;
-             //注意这里不可以用val,否则需要为fast.next!=null && fast.next.next!=null
-            if(fast==slow){
-                return true;
-            }
+    public Boolean hasCycle(ListNode head) {
+        if (head == null || head.next == null) {
+            return false;
         }
-        return false;
+
+        ListNode fast, slow;
+        fast = head.next;
+        slow = head;
+        while (fast != slow) {
+            if(fast==null || fast.next==null)
+                return false;
+            fast = fast.next.next;
+            slow = slow.next;
+        } 
+        return true;
     }
 }
