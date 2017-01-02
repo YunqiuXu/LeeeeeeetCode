@@ -7,7 +7,12 @@
  * }
  */
 public class Solution {
+    /** Yunqiu Xu*/
+    //蜜汁简单
     public void deleteNode(ListNode node) {
+        if(node.next == null){
+            node = null;
+        }
         node.val=node.next.val;
         node.next=node.next.next;
     }

@@ -7,72 +7,24 @@
  * }
  */
 public class Solution {
+    /** Yunqiu Xu*/
     public ListNode insertionSortList(ListNode head) {
-        ListNode helper=new ListNode(0);
-        ListNode prev=helper;
-        ListNode curr=head;
-        
-        while(curr!=null){
-            prev=helper;
-            while(prev.next!=null && prev.next.val < curr.val) {
-                prev=prev.next;
+        ListNode dummy = new ListNode(0);
+        // 这个dummy的作用是，把head开头的链表一个个的插入到dummy开头的链表里
+        // 所以这里不需要dummy.next = head;
+
+        while (head != null) {
+            ListNode node = dummy;
+            //find the insertion position
+            while (node.next != null && node.next.val < head.val) {
+                node = node.next;
             }
-            ListNode next=curr.next;
-            curr.next=prev.next;
-            prev.next=curr;
-            curr=next;
+            ListNode temp = head.next;
+            head.next = node.next;
+            node.next = head;
+            head = temp;
         }
-        
-        return helper.next;
+
+        return dummy.next;
     }
 }
-
-/** Another method
-public ListNode insertionSortList(ListNode head) {
-    if (head == null || head.next == null)
-    {
-        return head;
-    }
-
-    ListNode sortedHead = head, sortedTail = head;
-    head = head.next;
-    sortedHead.next = null;
-    
-    while (head != null)
-    {
-        ListNode temp = head;
-        head = head.next;
-        temp.next = null;
-        
-        // new val is less than the head, just insert in the front
-        if (temp.val <= sortedHead.val)
-        {
-            temp.next = sortedHead;
-            sortedTail = sortedHead.next == null ? sortedHead : sortedTail;
-            sortedHead = temp;
-        }
-        // new val is greater than the tail, just insert at the back
-        else if (temp.val >= sortedTail.val)
-        {
-            sortedTail.next = temp;
-            sortedTail = sortedTail.next;
-        }
-        // new val is somewhere in the middle, we will have to find its proper
-        // location.
-        else
-        {
-            ListNode current = sortedHead;
-            while (current.next != null && current.next.val < temp.val)
-            {
-                current = current.next;
-            }
-            
-            temp.next = current.next;
-            current.next = temp;
-        }
-    }
-    
-    return sortedHead;
-}
-*/
-

@@ -14,7 +14,8 @@ public class Solution {
      * 指针2不断向后直到找到第一个与A不同的结点B
      * 将AB相连
      */
-    /** public ListNode deleteDuplicates(ListNode head) {
+    
+    public ListNode deleteDuplicates(ListNode head) {
         if(head == null || head.next == null){
             return head;
         }
@@ -30,11 +31,12 @@ public class Solution {
                 pointer2 = pointer2.next;
             }
         }
+        //排除全链表元素相同的情况
         pointer1.next = null;
         return head;
     }
-    */
-    /** Method 2: dummy node*/
+    
+    /** Method 2: dummy node
     public ListNode deleteDuplicates(ListNode head) {
         if (head == null || head.next == null) {
             return head;
@@ -53,5 +55,5 @@ public class Solution {
             }
         }
         return dummy.next;
-    }
+    }*/
 }
