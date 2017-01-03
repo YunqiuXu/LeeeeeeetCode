@@ -1,6 +1,5 @@
 public class Solution {
     /** Yunqiu Xu*/
-    //看了答案，还需继续理解！！！
     /** Method 1 : greedy
     public int maxSubArray(int[] nums) {
         if (nums == null || nums.length == 0){
@@ -16,13 +15,12 @@ public class Solution {
         }
         return max;
     }*/
-    
+    //动态规划的解法还是不大懂
     /** Method 2: dp
      * state:
      * function:
      * initialize:
      * answer:
-     */
     public int maxSubArray(int[] nums) {
         if (nums == null || nums.length == 0){
             return 0;
@@ -38,5 +36,24 @@ public class Solution {
             global[i] = Math.max(local[i], global[i-1]);  
         }  
         return global[nums.length-1];  
+    }*/
+    /** Method 3: prefixSum
+     * sum[i:j] = prefixSum[j] - prefixSum[i-1]
+     */
+    public int maxSubArray(int[] nums) {
+        if (nums == null || nums.length == 0){
+            return 0;
+        }
+        
+        int max = Integer.MIN_VALUE;
+        int sum = 0;
+        int minSum = 0;
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            max = Math.max(max, sum - minSum);
+            minSum = Math.min(minSum, sum);
+        }
+
+        return max;
     }
 }
