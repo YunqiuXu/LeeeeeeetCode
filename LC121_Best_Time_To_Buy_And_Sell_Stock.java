@@ -18,7 +18,6 @@ public class Solution {
             min = Math.min(min, prices[i]);
             //注意，如果nums[i]不是当前最大元素，那么profit肯定不会变咯
             profit = Math.max(profit, prices[i] - min);
-            
         }
         
         return profit;
