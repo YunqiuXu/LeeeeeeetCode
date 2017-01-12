@@ -3,4 +3,4 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](/home/venturer/LeeeeeeetCode/LC001_Two_Sum.java)|Medium|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC001_Two_Sum.java)|Medium|
