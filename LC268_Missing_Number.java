@@ -4,7 +4,7 @@ public class Solution {
     * i = 0,1,2,3...,n
     * nums[i] = 0,1,2,...k,k+2,...,n
     */
-    /** public int missingNumber(int[] nums) {
+    public int missingNumber(int[] nums) {
         int result = 0;
         int i = 0;
         while(i < nums.length){
@@ -12,7 +12,7 @@ public class Solution {
             i++;
         }
         return result ^ i;
-    }*/
+    }
     /** Another Easier Method*/
     public int missingNumber(int[] nums) {
         int sum = nums.length;
