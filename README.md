@@ -4,6 +4,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC487_Max_Consecutive_Ones_II.java)|Medium|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC485_Max_Consecutive_Ones.java)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC477_Total_Hamming_Distance.java)|Medium|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC474_Ones_And_Zeros.java)|Medium|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC461_Hamming_Distance.java)|Easy|
@@ -51,6 +53,7 @@
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | To be done |Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | To be done |Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC374_Guess_Number_Higher_Or_Lower.java)|Easy|
+|370|[Range Addition](https://leetcode.com/problems/range-addition/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC370_Range_Addition.java)|Medium|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC369_Plus_One_Linked_List.java)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC367_Valid_Perfect_Square.java)|Medium|
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) &hearts; | [Java](.https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC366_Find_Leaves_Of_Binary_Tree.java)|Medium|
@@ -95,13 +98,16 @@
 |293|[Flip Game](https://leetcode.com/problems/flip-game/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC293_Flip_Game.java)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  | To be done |Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | To be done |Easy|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/)  | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC289_Game_Of_Life.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC287_Find_The_Duplicate_Number.java)|Hard|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC285_Inorder_Successor_In_BST.java)|Medium|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  | To be done |Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC283_Move_Zeros.java)|Easy|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  | To be done |Hard|
+|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC280_Wiggle_Sort.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | To be done |Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC278_First_Bad_Version.java)|Easy|
+|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC277_Find_The_Celebrity.java)|Medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC275_H_Index_II.java)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)| To be done |Medium|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC270_Closest_Binary_Search_Tree_Value.java)|Easy|
@@ -113,12 +119,13 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| To be done |Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC257_Binary_Tree_Paths.java)|Easy|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC255_Verify_Preorder_Sequence_In_Binary_Search_Tree.java)|Medium|
+|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC245_Shortest_Word_Distance_III.java)|Medium|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC243_Shortest_Word_Distance.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| To be done |Easy|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| To be done |Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| To be done |Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| To be done |Hard|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| To be done |Medium|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC238_Product_Of_Array_Except_Self.java)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC237_Delete_Node_In_A_Linked_List.java)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC236_Lowest_Common_Ancestor_Of_A_Binary_Tree.java)|Medium|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC235_Lowest_Common_Ancestor_Of_A_Binary_Search_Tree.java)|Easy|
@@ -128,7 +135,7 @@
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC231_Power_Of_Two.java)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC230_Kth_Smallest_Element_In_A_BST.java)|Medium|
 |229|[Majority Element II](https://oj.leetcode.com/problems/majority-element-ii/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC229_Majority_Element_II.java)|Medium|
-|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| To be done |Easy|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC228_Summary_Ranges.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| [To be done |Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC226_Invert_Binary_Tree.java)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC225_Implement_Stack_Using_Queues.java)|Medium|
@@ -140,7 +147,7 @@
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC219_Contains_Duplicate_II.java)|Easy|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| To be done |Hard|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC217_Contains_Duplicate.java)|Easy|
-|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| To be done |Medium|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC216_Combination_Sum_III.java)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC215_Kth_Largest_Element_In_An_Array.java)|Medium|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)| To be done |Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| To be done |Medium|
@@ -177,8 +184,8 @@
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | To be done |Medium|
 |165|[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | To be done |Easy|
 |164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | To be done |Hard|
-|163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; | To be done |Medium|
-|162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | To be done |Medium|
+|163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC163_Missing_Ranges.java)|Medium|
+|162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC162_Find_Peak_Element.java)|Medium|
 |161|[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC161_One_Edit_Distance.java)|Medium|
 |160|[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC160_Intersection_Of_Two_Linked_Lists.java)|Easy|
 |159|[Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; | To be done |Hard|
@@ -260,14 +267,14 @@
 |83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC083_Remove_Duplicates_From_Sorted_List.java)|Easy|
 |82|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC082_Remove_Duplicates_From_Sorted_List_II.java)|Medium|
 |81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC081_Search_In_Rotated_Sorted_Array_II.java)|Medium|
-|80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| To be done |Medium|
+|80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC080_Remove_Duplicates_From_Sorted_Array_II.java)|Medium|
 |79|[Word Search](https://oj.leetcode.com/problems/word-search/)| TO be done |Medium|
 |78|[Subsets](https://oj.leetcode.com/problems/subsets/)| To be done |Medium|
 |77|[Combinations](https://oj.leetcode.com/problems/combinations/)| To be done |Medium|
 |76|[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)| To be done |Hard|
-|75|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)| To be done |Medium|
+|75|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC075_Sort_Colors.java)|Medium|
 |74|[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC074_Search_A_2D_Matrix.java)|Medium|
-|73|[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| To be done |Medium|
+|73|[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC073_Set_Matrix_Zeros.java)|Medium|
 |72|[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC072_Edit_Distance.java)|Hard|
 |71|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| To be done |Medium|
 |70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC070_Climbing_Stairs.java)|Easy|
@@ -281,12 +288,12 @@
 |62|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC062_Unique_Paths.java)|Medium|
 |61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC061_Rotate_List.java)|Medium|
 |60|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| To be done |Medium|
-|59|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| To be done |Medium|
+|59|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC059_Spiral_Matrix_II.java)|Medium|
 |58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| To be done |Easy|
 |57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| To be done |Hard|
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| To be done |Hard|
 |55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC055_Jump_Game.java)|Medium|
-|54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| To be done |Medium|
+|54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC054_Spiral_Matrix.java)|Medium|
 |53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC053_Maximum_Subarray.java)|Medium|
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| To be done |Hard|
 |51|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| To be done |Hard|
@@ -300,8 +307,8 @@
 |43|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| To be done |Medium|
 |42|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC042_Trapping_Rain_Water.java)|Hard|
 |41|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| To be done |Hard|
-|40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| To be done |Medium|
-|39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| To be done |Medium|
+|40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC040_Combination_Sum_II.java)|Medium|
+|39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC039_Combination_Sum.java)|Medium|
 |38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| To be done |Easy|
 |37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| To be done |Hard|
 |36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| To be done |Easy|
