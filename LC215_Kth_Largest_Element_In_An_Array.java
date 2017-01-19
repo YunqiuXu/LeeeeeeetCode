@@ -1,12 +1,12 @@
 public class Solution {
     /** Yunqiu Xu*/
-    //作弊式玩法，建议之后还是自己写下快排
+    /** Method 1: built-in method */
     public int findKthLargest(int[] nums, int k) {
         Arrays.sort(nums);
         return nums[nums.length-k];
     }
     
-    /** Jiuzhang, based on quick selection */
+    /** Method 2 :quick selection */
     public int findKthLargest(int k, int[] nums) {
         // write your code here
         if (nums == null || nums.length == 0) {
@@ -52,4 +52,17 @@ public class Solution {
         nums[left] = pivot;
         return left;         
     }
+    
+    /** Method 3: heap*/
+    public int findKthLargest(int[] nums, int k) {
+        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(k + 1);
+        for(int curr : nums){
+            pq.add(curr);
+            if(pq.size() > k) {
+                pq.poll();
+            }
+        }
+        return pq.poll();
+    }
+    
 }
