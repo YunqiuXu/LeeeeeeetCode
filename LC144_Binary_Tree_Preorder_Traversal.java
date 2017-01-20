@@ -9,25 +9,24 @@
  */
 public class Solution {
     /** Yunqiu Xu*/
-    /** Recursive version
+    /** Recursive version */
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> resultList=new ArrayList<Integer>();
-        if(root==null){
+        List<Integer> resultList = new ArrayList<Integer>();
+        if(root == null){
             return resultList;
         }
-        List<Integer> leftList=preorderTraversal(root.left);
-        List<Integer> rightList=preorderTraversal(root.right);
+        List<Integer> leftList = preorderTraversal(root.left);
+        List<Integer> rightList = preorderTraversal(root.right);
         resultList.add(root.val);
         resultList.addAll(leftList);
         resultList.addAll(rightList);
         return resultList;
     }
-    */
     
     /** Iterative version, faster */
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> resultList=new ArrayList<Integer>();
-        if(root==null){
+        List<Integer> resultList = new ArrayList<Integer>();
+        if(root == null){
             return resultList;
         }
         Stack<TreeNode> stack = new Stack<TreeNode>();

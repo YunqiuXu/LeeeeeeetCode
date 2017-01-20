@@ -9,10 +9,10 @@
  */
 public class Solution {
     /** Yunqiu Xu*/
-    /** Recursive version
+    /** Recursive version */
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> resultList=new ArrayList<Integer>();
-        if(root==null){
+        List<Integer> resultList = new ArrayList<Integer>();
+        if(root == null){
             return resultList;
         }
         List<Integer> leftList = inorderTraversal(root.left);
@@ -21,13 +21,12 @@ public class Solution {
         resultList.add(root.val);
         resultList.addAll(rightList);
         return resultList;
-    }*/
-    
+    }
     
     /** Iterative version, 这个比较麻烦, 还需要再理解 */
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> resultList=new ArrayList<Integer>();
-        if(root==null){
+        List<Integer> resultList = new ArrayList<Integer>();
+        if(root == null){
             return resultList;
         }
         Stack<TreeNode> stack = new Stack<TreeNode>();
