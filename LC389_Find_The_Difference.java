@@ -1,6 +1,6 @@
 public class Solution {
     /** Yunqiu Xu*/
-    //Similar to LC136
+    /**Method 1 : bit manipulation, similar to LC136 */
     public char findTheDifference(String s, String t) {
         String total = s + t;
         char result = total.charAt(0);
@@ -9,4 +9,6 @@ public class Solution {
         }
         return result;
     }
+    
+    /** Method 2: hash table, not recommend*/
 }

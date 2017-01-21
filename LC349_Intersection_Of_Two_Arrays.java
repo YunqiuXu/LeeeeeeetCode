@@ -1,6 +1,11 @@
 public class Solution {
-    /** 思路: 先对两个链表进行排序, 去除重复值, 时间复杂度O(nlogn)*/
-    /**    public int[] intersection(int[] nums1, int[] nums2) {
+    
+    /** Yunqiu Xu*/
+    /** Method 1: 
+     *先对两个链表进行排序, 去除重复值
+     *时间复杂度O(nlogn)
+     */
+    public int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> set = new HashSet<Integer>();
         Arrays.sort(nums1);
         Arrays.sort(nums2);
@@ -26,13 +31,12 @@ public class Solution {
         }
         return result;
     }
-    */
     
-    /**    另一种解法: 
-    将一个数组全放进哈希表1中, 
-    将另一个数组中元素与其比对, 若存在则放入结果表
-    这个速度更快
-    */
+    /** Method 2:
+     * 将一个数组全放进哈希表1中, 
+     * 将另一个数组中元素与其比对, 若存在则放入结果表
+     * 这个速度更快
+     */
     public int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> Set1=new HashSet<Integer>();
         Set<Integer> resultSet=new HashSet<Integer>();
