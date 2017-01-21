@@ -8,25 +8,29 @@
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC485_Max_Consecutive_Ones.java)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC477_Total_Hamming_Distance.java)|Medium|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC474_Ones_And_Zeros.java)|Medium|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC463_Island_Perimeter.java)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC461_Hamming_Distance.java)|Easy|
+|456|[132 Pattern](https://leetcode.com/problems/132-pattern/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC456_132_Pattern.java)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC454_4Sum_II.java)|Medium|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC450_Delete_Node_In_A_BST.java)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC448_Find_All_Numbers_Disappeared_In_An_Array.java)|Easy|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC447_Number_Of_Boomerangs.java)|Easy|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC445_Add_Two_Numbers_II.java)|Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC442_Find_All_Duplicates_In_An_Array.java)|Medium|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC441_Arranging_Coins.java)|Easy|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC438_Find_All_Anagrams_In_A_String.java)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC437_Path_Sum_III.java)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | To be done |Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC414_Third_Maximum_Number.java)|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | To be done |Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | To be done |Easy|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | To be done |Hard|
-|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | To be done |Easy|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC409_Longest_Palindrome.java)|Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | To be done |Medium|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | To be done |Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC404_Sum_of_Left_Leaves.java)|Easy|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/) | To be done |Hard|
-|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | To be done |Medium|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC402_Remove_K_Digits.java)|Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | To be done |Easy|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/) | To be done |Easy|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/) | To be done |Medium|
@@ -56,7 +60,9 @@
 |370|[Range Addition](https://leetcode.com/problems/range-addition/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC370_Range_Addition.java)|Medium|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC369_Plus_One_Linked_List.java)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC367_Valid_Perfect_Square.java)|Medium|
-|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) &hearts; | [Java](.https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC366_Find_Leaves_Of_Binary_Tree.java)|Medium|
+|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC366_Find_Leaves_Of_Binary_Tree.java)|Medium|
+|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC359_Logger_Rate_Limiter.java)|Easy|
+|356|[Line Reflection](https://leetcode.com/problems/line-reflection/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC356_Line_Reflection.java)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC350_Intersection_Of_Two_Arrays%20_II.java)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC349_Intersection_Of_Two_Arrays.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | To be done |Medium|
@@ -64,13 +70,14 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC344_Reverse_String.java)|Easy|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | To be done |Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC342_Power_Of_Four.java)|Easy|
-|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | To be done |Medium|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC341_Flatten_Nested_List_Iterator.java)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC338_Counting_Bits.java)|Medium|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC336_Palindrome_Pairs.java)|Hard|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC337_House_Robber_III.java)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | To be done |Medium|
 |333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC333_Largest_BST_Subtree.java)|Medium|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | To be done |Medium|
-|331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | To be done |Medium|
+|331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC331_Verify_Preorder_Serialization_Of_A_Binary_Tree.java)|Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/) | To be done |Medium|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | To be done |Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC328_Odd_Even_Linked_List.java)|Easy|
@@ -92,13 +99,14 @@
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC303_Range_Sum_Query_Immutable.java)|Easy|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | To be done |Hard|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC300_Longest_Increasing_Subsequence.java)|Medium|
-|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | To be done |Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC299_Bulls_And_Cows.java)|Easy|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | To be done |Medium|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | To be done |Hard|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC293_Flip_Game.java)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  | To be done |Easy|
-|290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | To be done |Easy|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC290_Word_Pattern.java)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)  | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC289_Game_Of_Life.java)|Medium|
+|288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC288_Unique_Word_Abbreviation.java)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC287_Find_The_Duplicate_Number.java)|Hard|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC285_Inorder_Successor_In_BST.java)|Medium|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  | To be done |Medium|
@@ -112,16 +120,19 @@
 |274|[H-Index](https://leetcode.com/problems/h-index/)| To be done |Medium|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC270_Closest_Binary_Search_Tree_Value.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC268_Missing_Number.java)|Medium|
+|266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC266_Palindrome_Permution.java)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| To be done |Medium|
-|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| To be done |Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC263_Ugly_Number.java)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| To be done |Medium|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC259_3Sum_Smaller.java)|Medium|
-|258|[Add Digits](https://leetcode.com/problems/add-digits/)| To be done |Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC258_Add_Digits.java)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC257_Binary_Tree_Paths.java)|Easy|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC255_Verify_Preorder_Sequence_In_Binary_Search_Tree.java)|Medium|
+|249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC249_Group_Shifted_Strings.java)|Easy|
+|246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC246_Strobogrammatic_Number.java)|Easy|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC245_Shortest_Word_Distance_III.java)|Medium|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC243_Shortest_Word_Distance.java)|Easy|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| To be done |Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC242_Valid_Anagram.java)|Easy|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| To be done |Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| To be done |Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| To be done |Hard|
@@ -136,10 +147,10 @@
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC230_Kth_Smallest_Element_In_A_BST.java)|Medium|
 |229|[Majority Element II](https://oj.leetcode.com/problems/majority-element-ii/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC229_Majority_Element_II.java)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC228_Summary_Ranges.java)|Easy|
-|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| [To be done |Medium|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC227_Basic_Calculator_II.java) |Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC226_Invert_Binary_Tree.java)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC225_Implement_Stack_Using_Queues.java)|Medium|
-|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| To be done |Medium|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC224_Basic_Calculator.java)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| To be done |Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC222_Count_Complete_Tree_Nodes.java)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC221_Maximal_Square.java)|Medium|
@@ -149,7 +160,7 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC217_Contains_Duplicate.java)|Easy|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC216_Combination_Sum_III.java)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC215_Kth_Largest_Element_In_An_Array.java)|Medium|
-|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)| To be done |Hard|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC214_Shortest_Palindrome.java)|Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| To be done |Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)| To be done |Hard|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| To be done |Medium|
@@ -158,10 +169,10 @@
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| To be done |Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)| To be done |Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC206_Reverse_Linked_List.java)|Easy|
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| To be done |Easy|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/)| To be done |Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC205_Isomorphic_Strings.java)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC204_Count_Primes.java)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC203_Remove_Linked_List_Elements.java)|Easy|
-|202|[Happy Number](https://leetcode.com/problems/happy-number/)| To be done |Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC202_Happy_Number.java)|Easy|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| To be done |Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| To be done |Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC199_Binary_Tree_Right_Side_View.java)|Medium|
@@ -177,7 +188,7 @@
 |173|[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC173_Binary_Search_Tree_Iterator.java)|Medium|
 |172|[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/) | To be done |Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC171_Excel_Sheet_Column_Number.java)|Easy|
-|170|[Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | To be done |Easy|
+|170|[Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC170_Two_Sums_III.java)|Easy|
 |169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC169_Majority_Element.java)|Easy|
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC168_Excel_Sheet_Column_Title.java)|Easy|
 |167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC167_Two_Sum_II_Input_Array_Is_Sorted.java)|Medium|
@@ -197,8 +208,8 @@
 |153|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC153_Find_Minimum_In_Rotated_Sorted_Array.java)|Medium|
 |152|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC152_Maximum_Product_Subarray.java)|Medium|
 |151|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC151_Reverse_Words_In_A_String.java)|Medium|
-|150|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| To be done |Medium|
-|149|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| To be done |Hard|
+|150|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC150_Evaluate_Reverse_Polish_Notation.java)|Medium|
+|149|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC149_Max_Points_On_A_Line.java)|Hard|
 |148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC148_Sort_List.java)|Medium|
 |147|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC147_Insertion_Sort_List.java)|Medium|
 |146|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| To be done |Hard|
@@ -276,7 +287,7 @@
 |74|[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC074_Search_A_2D_Matrix.java)|Medium|
 |73|[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC073_Set_Matrix_Zeros.java)|Medium|
 |72|[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC072_Edit_Distance.java)|Hard|
-|71|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| To be done |Medium|
+|71|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC071_Simplify_Path.java)|Medium|
 |70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC070_Climbing_Stairs.java)|Easy|
 |69|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC069_Sqrt(x).java)|Medium|
 |68|[Text Justification](https://oj.leetcode.com/problems/text-justification/)| To be done |Hard|
@@ -298,7 +309,7 @@
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| To be done |Hard|
 |51|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| To be done |Hard|
 |50|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC050_Pow(x%2Cn).java)|Medium|
-|49|[Group Anagrams](https://oj.leetcode.com/problems/anagrams/)| To be done |Medium|
+|49|[Group Anagrams](https://oj.leetcode.com/problems/anagrams/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC049_Group_Anagrams.java)|Medium|
 |48|[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC048_Rotate_Image.java)|Medium|
 |47|[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| To be done |Hard|
 |46|[Permutations](https://oj.leetcode.com/problems/permutations/)| To be done |Medium|
@@ -311,15 +322,15 @@
 |39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC039_Combination_Sum.java)|Medium|
 |38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| To be done |Easy|
 |37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| To be done |Hard|
-|36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| To be done |Easy|
+|36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC036_Valid_Sudoku.java)|Easy|
 |35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC035_Search_Insert_Position.java)|Medium|
 |34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC034_Search_For_A_Range.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC033_Search_In_Rotated_Sorted_Array.java)|Hard|
-|32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| To be done |Hard|
+|32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC032_Longest_Valid_Parentheses.java)|Hard|
 |31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| To be done |Medium|
 |30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| To be done |Hard|
 |29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| To be done |Medium|
-|28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| To be done |Easy|
+|28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC028_Implement_strStr().java)|Easy|
 |27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC027_Remove_Element.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC026_Remove_Duplicates_From_Sorted_Array.java)|Easy|
 |25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC025_Reverse_Nodes_In_k-Group.java)|Hard|
@@ -342,7 +353,7 @@
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| To be done |Easy|
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC007_Reverse_Integer.java)|Easy|
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|  To be done  |Easy|
-|5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| To be done |Medium|
+|5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC005_Longest_Palindromic_Substring.java)|Medium|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC004_Median_Of_Two_Sorted_Arrays.java)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| To be done |Medium|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC002_Add_Two_Numbers.java)|Medium|
