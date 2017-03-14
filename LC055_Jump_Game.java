@@ -24,6 +24,7 @@ public class Solution {
     }
     */
     /** Greedy */
+    //正向，从0出发，一层一层网上跳，看最后能不能超过最高层，能超过，说明能到达，否则不能到达
     public boolean canJump(int[] nums) {
         if(nums == null || nums.length == 0){
             return false;

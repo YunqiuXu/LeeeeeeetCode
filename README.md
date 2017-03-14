@@ -11,6 +11,7 @@
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC463_Island_Perimeter.java)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC461_Hamming_Distance.java)|Easy|
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC456_132_Pattern.java)|Easy|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC455_Assign_Cookies.java)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC454_4Sum_II.java)|Medium|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC450_Delete_Node_In_A_BST.java)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC448_Find_All_Numbers_Disappeared_In_An_Array.java)|Easy|
@@ -84,7 +85,7 @@
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | To be done |Hard|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC326_Power_Of_Three.java)|Easy|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | To be done |Medium|
-|322|[Coin Change](https://leetcode.com/problems/coin-change/) | To be done |Medium|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC322_Coin_Change.java) |Medium|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | To be done |Hard|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | To be done |Medium|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | To be done |Medium|
@@ -224,7 +225,7 @@
 |137|[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| To be done |Medium|
 |136|[Single Number](https://oj.leetcode.com/problems/single-number/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC136_Single_Number.java)|Medium|
 |135|[Candy](https://oj.leetcode.com/problems/candy/)| To be done |Hard|
-|134|[Gas Station](https://oj.leetcode.com/problems/gas-station/)| To be done |Medium|
+|134|[Gas Station](https://oj.leetcode.com/problems/gas-station/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC134_Gas_Station.java) |Medium|
 |133|[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)| To be done |Medium|
 |132|[Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)| [Java](https://github.com/YunqiuXu/LeeeeeeetCode/blob/master/LC132_Palindrome_Partitioning_II.java)|Hard|
 |131|[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)| To be done |Medium|
